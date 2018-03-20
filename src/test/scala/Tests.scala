@@ -3,8 +3,6 @@ package xyz.hyperreal.polyline
 import org.scalatest._
 import prop.PropertyChecks
 
-import Polyline.{decode, encode}
-
 
 class Tests extends FreeSpec with PropertyChecks with Matchers {
 	

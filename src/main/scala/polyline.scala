@@ -1,9 +1,9 @@
-package xyz.hyperreal.polyline
+package xyz.hyperreal
 
 import math._
 
 
-object Polyline {
+package object polyline {
 
   // from https://developers.google.com/maps/documentation/utilities/polylinealgorithm
   // their example: [(38.5, -120.2), (40.7, -120.95), (43.252, -126.453)] ~> "_p~iF~ps|U_ulLnnqC_mqNvxq`@"
